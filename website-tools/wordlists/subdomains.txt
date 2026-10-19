@@ -1,0 +1,13 @@
+# Tiny starter subdomain list.
+www
+mail
+ftp
+dev
+staging
+test
+api
+admin
+vpn
+portal
+blog
+shop

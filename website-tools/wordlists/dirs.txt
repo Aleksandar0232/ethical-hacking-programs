@@ -1,0 +1,21 @@
+# Tiny starter directory/file list. Swap in SecLists for real use.
+admin
+administrator
+login
+login.php
+config
+config.php
+.git
+.env
+backup
+backup.zip
+uploads
+images
+js
+css
+robots.txt
+phpinfo.php
+test
+dev
+api
+dashboard
